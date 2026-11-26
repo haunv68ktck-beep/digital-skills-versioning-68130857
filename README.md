@@ -18,5 +18,5 @@
 - Visual Studio Code (nếu cần)
 
 ## 4. Thành viên
-Sinh viên thực hiện: [Họ và tên]
-MSSV: [Mã số sinh viên]
+Sinh viên thực hiện: Nguyen Van Hau
+MSSV: 68130857
